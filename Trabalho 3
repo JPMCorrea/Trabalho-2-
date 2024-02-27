@@ -54,3 +54,37 @@ JavaScript: Conta com uma grande comunidade e
 é suportado por diversos frameworks front-end (React, Angular) e back-end (Node.js).
 Essas diferenças tornam essas linguagens mais adequadas para determinados cenários e projetos,
 dependendo dos requisitos específicos e das preferências da equipe de desenvolvimento.
+
+Java:
+Tipo de Linguagem:
+
+Estática: Java é uma linguagem de tipagem estática,
+o que significa que os tipos de dados são declarados explicitamente durante a compilação.
+Compilação e Execução:
+
+Compilada e Interpretada: Java é compilada para bytecode, que é executado pela Máquina Virtual Java (JVM).
+O código é compilado antes da execução.
+
+Paradigma de Programação:
+
+Orientada a Objetos: Java é fortemente orientada a objetos, com suporte a princípios como encapsulamento, 
+herança e polimorfismo.
+
+Aplicações Típicas:
+
+Empresariais e Corporativas: Java é amplamente utilizado em desenvolvimento de aplicativos corporativos, 
+servidores, sistemas distribuídos e aplicativos Android.
+
+Python:
+Tipo de Linguagem:
+
+Dinâmica: Python é uma linguagem de tipagem dinâmica, onde os tipos de dados são inferidos em tempo de execução.
+Compilação e Execução:
+
+Interpretada: Python é uma linguagem interpretada, e o código fonte é executado diretamente por um interpretador.
+
+
+
+
+
+
