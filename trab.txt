@@ -14,6 +14,7 @@ Um servidor é um computador ou sistema especializado que fornece serviços, rec
 Os servidores desempenham papéis diversos, como hospedar sites, armazenar e gerenciar bancos de dados, processar solicitações de e-mail, entre outras funções. 
 Eles são projetados para lidar com um grande volume de requisições e fornecer serviços de forma confiável e eficiente para múltiplos usuários ou sistemas clientes.
 
+TRABLAHO 2:
 RELAÇÃO ENTRE LGPD E DATA CENTERS:
  A relação entre a LGPD e os Data Centers no Brasil:
 A Lei Geral de Proteção de Dados (LGPD) é a legislação brasileira que regulamenta o tratamento de dados pessoais, estabelecendo direitos e responsabilidades para as organizações que lidam com esses dados. 
