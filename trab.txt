@@ -1,3 +1,5 @@
+ALUNO: João Pedro Corrêa
+
 ARQUIVO no contexto da computação:
 Em computação, um arquivo é uma unidade de armazenamento identificada por um nome e associada a dados. 
 Esses dados podem incluir qualquer tipo de informação, como texto, imagens, vídeos, programas executáveis, entre outros. 
